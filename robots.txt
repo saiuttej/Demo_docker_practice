@@ -1,3 +1,4 @@
 # robotstxt.org/
 
 User-agent: *
+no use with this. :p
