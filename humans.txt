@@ -15,4 +15,4 @@
     jQuery, Modernizr
    
 
-thiss is really great time to work on git hub. gained lot of knowledge by the tutorial.
+
